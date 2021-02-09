@@ -1,3 +1,3 @@
 # retailmanagementapp
 
-making some changes so that jira gets notified
+making some changes so that jira gets notified !
